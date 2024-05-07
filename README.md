@@ -4,7 +4,7 @@
 
 His name is "Xu Tianze".
 
-However, he'd perfer my NichName "天泽龟(Tianze-san)", which is a tricky homophonic pun, and should be fined.
+However, he'd perfer his Nichname "天泽龟(Tianze-san)", which is a tricky homophonic pun, and should be fined.
 
 He is an undergraduated student from **BUPT(Beijing University of Posts and Telecommunications)**, majoring in E-commerce & Law. 
 
