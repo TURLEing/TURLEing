@@ -6,7 +6,7 @@ His name is "Xu Tianze".
 
 however, he'd perfer my NichName "天泽龟(Tianze-san)", which is a tricky homophonic pun.
 
-He is a undergraduated student from **BUPT(Beijing University of Posts and Telecommunications)**, majoring in E-commerce & Law. 
+He is an undergraduated student from **BUPT(Beijing University of Posts and Telecommunications)**, majoring in E-commerce & Law. 
 
 - He used to be a member of ACM Team, however, he is too poor to get any reward.
 - He used to be the president of BUPT "Yanfeng" Anime Club, however, he is just a nerd.
@@ -24,5 +24,3 @@ By the way, his avter is CMS from Girls' Frontline. It's from pixiv, PID: 691474
 
 - 📧 His BUPT E-mail: xtzorz@bupt.edu.cn
 - 🐧 His QQ number: 1492762029
-
---- 
