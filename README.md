@@ -1,16 +1,20 @@
-### Hi there 👋
+## “理想与孤独。”
 
-<!--
-**TURLEing/TURLEing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="450" src="CMS.jpg">
 
-Here are some ideas to get you started:
+My name is "Xu Tianze", however, I'd perfer my NichName "天泽龟(Tianze-san)", which is a tricky homophonic pun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a undergraduated student from BUPT(Beijing University of Posts and Telecommunications), majoring in E-commerce & Law. 
+
+- He used to be a member of ACM Team, however, he is too poor to get any reward.
+- He used to be the president of BUPT "Yanfeng" Anime Club, however, he is just a nerd. (By the way, his avter is from pixiv, PID: 69147429)
+
+---
+
+
+### 💻 Environment
+
+
+### 📫 Contact me
+
+---
