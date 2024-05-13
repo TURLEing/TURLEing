@@ -1,5 +1,5 @@
 ## “理想与孤独。”
-<img align="right" width="260" src="CMS.jpg">
+<img align="right" width="250" src="CMS.jpg">
 His name is "Xu Tianze".
 
 However, he'd perfer his Nick name "天泽龟(Tianze-san)", which is a tricky homophonic pun, and should be fined.
