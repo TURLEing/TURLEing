@@ -20,5 +20,5 @@ By the way, his avatar is CMS from Girls' Frontline. It's from PID: 69147429。
 
 ### 📫 Contact me
 
-- 📧 His BUPT E-mail: xtzorz@bupt.edu.cn
+- 📧 His BUPT E-mail: xtzorz [AT] bupt.edu.cn
 - 🐧 His QQ number: 1492762029
