@@ -5,8 +5,9 @@ However, he'd perfer his Nick name "天泽龟(Tianze-san)", which is a tricky ho
 
 He is an undergraduated student from **BUPT(Beijing University of Posts and Telecommunications)**, majoring in E-commerce & Law. 
 
-- He used to be an OIer and a member of ACM Team, however, he is too poor to get any reward. He believe in that one day AI will replace it.
-- He used to be the president of BUPT "Yanfeng" Anime Club, however, he is just a nerd and do nothing special. He just loves ACGN and that's all.
+- He used to be an OIer and a member of ACM Team.
+
+- He used to be a member of BUPT "Yanfeng" Anime Club.
 
 By the way, his avatar is CMS from Girls' Frontline. It's from PID: 69147429。
 
