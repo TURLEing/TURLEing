@@ -1,7 +1,7 @@
 ## “理想与孤独。”
 His name is "Xu Tianze".
 
-However, he'd perfer his Nick name "天泽龟(Tianze-san)", which is a tricky homophonic pun.
+However, he'd perfer his Nick name "天泽龟(Tianze-kun)", which is a tricky homophonic pun.
 
 He is an undergraduated student from **BUPT(Beijing University of Posts and Telecommunications)**, majoring in E-commerce & Law. 
 
