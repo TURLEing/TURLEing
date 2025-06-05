@@ -9,9 +9,8 @@ By the way, his avatar is CMS from Girls' Frontline. It's from PID: 69147429。
 
 ---
 
-### 💻 Mainly working on:
+### 💻 Main Work:
 
-- His Blog: [天泽龟的龟壳屋](https://turleing.github.io/)
 - Mozart's Touch, A Multi-Modal Music Generation Framework: [Click Here](https://github.com/WangTooNaive/MozartsTouch)
 
 ### 📫 Contact me
