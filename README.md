@@ -4,7 +4,7 @@
   <h3> 𝕏𝕦 𝕋𝕚𝕒𝕟𝕫𝕖 | 天泽龟 · アマサワくん </h3>
   
   [![SJTU Badge](https://img.shields.io/badge/Shanghai_Jiao_Tong_Univ.%20-Ph.D._Candidate-00599C?logo=university)](https://www.cs.sjtu.edu.cn/)
-  [![BUPT_Badge](https://img.shields.io/badge/BUPT_\&_QMaUL.%20-Dual_B.Eng)](https://www.bupt.edu.cn/)
+  [[![BUPT_Badge](https://img.shields.io/badge/BUPT_\&_QMaUL.%20-Dual_B.Eng)](https://www.bupt.edu.cn/)](https://shields.io/)
 </div>
 
 
