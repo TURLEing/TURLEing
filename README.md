@@ -18,7 +18,7 @@
 
 ### 🌌 Main work
 
-#### - [🎼 Mozart's Touch - A Multi-Modal Music Generation Framework](https://github.com/WangTooNaive/MozartsTouch)
+- #### [🎼 Mozart's Touch - A Multi-Modal Music Generation Framework](https://github.com/WangTooNaive/MozartsTouch)
 ####
 
 
