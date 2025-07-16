@@ -13,7 +13,7 @@
 ```diff
 + Ph.D. Candidate @ Shanghai Jiao Tong University (SJTU)
 ! Dual B.Eng @ BUPT & Queen Mary University of London
-# 研究领域：多模态生成 · 计算音乐学 · 人工智能艺术
+# Research in: LLM Evaluation · Multimodal LLM · AI4Art
 ```
 
 ### 🌌 Main work
