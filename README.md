@@ -13,7 +13,7 @@
 ```diff
 + Ph.D. Candidate @ Shanghai Jiao Tong University (SJTU)
 ! Dual B.Eng @ BUPT & Queen Mary University of London
-# Research in: LLM Evaluation · Multimodal LLM · AI4Art
+# Research in: LLM Evaluation · Multimodal LLM
 ```
 
 ### 🌌 Main work
@@ -23,6 +23,7 @@
 
 
 ### 📡 Contact Me
-| **Email** | [![EMail](https://img.shields.io/badge/📧_xtz.orz@gmail.com-006cb7?logo=gmail)](mailto:xtz.orz@gmail.com) |
-| **QQ** | [![QQ](https://img.shields.io/badge/🐧_1492762029-12b7f4?logo=tencentqq)](tencent://message/?uin=1492762029) |
-| **Blog** | [![Blog](https://img.shields.io/badge/🌐_tzturtle.moe-4d4d4d?logo=rss)](https://tzturtle.moe) |
+
+- **Email**:  [![EMail](https://img.shields.io/badge/📧_xtz.orz@gmail.com-006cb7?logo=gmail)](mailto:xtz.orz@gmail.com) |
+- **QQ**: [![QQ](https://img.shields.io/badge/🐧_1492762029-12b7f4?logo=tencentqq)](tencent://message/?uin=1492762029) |
+- **Blog**: [![Blog](https://img.shields.io/badge/🌐_tzturtle.moe-4d4d4d?logo=rss)](https://tzturtle.moe) |
