@@ -17,6 +17,7 @@
 ```
 
 ### 🌌 Main work
+- #### [📋 Rubrics to Tokens: Bridging Response-level Rubrics and Token-level Rewards in Instruction Following Tasks](https://github.com/TURLEing/Rubrics-To-Tokens)
 - #### [🔬 ResearcherBench: Evaluating Deep AI Research Systems on the Frontiers of Scientific Inquiry](https://github.com/GAIR-NLP/ResearcherBench)
 - #### [🎼 Mozart's Touch - A Multi-Modal Music Generation Framework](https://github.com/WangTooNaive/MozartsTouch)
 ####
